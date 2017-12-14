@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'Apache License, Version 2.0', :file => 'COPYING' }
   s.authors      = { 'Neil Fraser' => 'fraser@google.com', 'Jan Weiß' => 'jan@geheimwerk.de' }
   
-  Pod::Spec.source       = { :git => "https://github.com/JanX2/google-diff-match-patch-Objective-C.git", :branch => "master" }
+  Pod::Spec.source       = { :git => "https://github.com/janlionly/google-diff-match-patch-Objective-C.git", :branch => "master" }
   
   s.ios.deployment_target = '4.0'
   s.osx.deployment_target = '10.6'
